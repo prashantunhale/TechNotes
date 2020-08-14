@@ -78,4 +78,4 @@
   5. Identify context boundaries - Identify Core Domain/Sub Domain/Different Bounded Content
 
 ### Credits
-Domain Driven Design - Distilled by Vaughn Vernon
+Notes taken during Domain Driven Design - Distilled Course by Vaughn Vernon
